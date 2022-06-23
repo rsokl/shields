@@ -39,7 +39,7 @@
     "escape-string-regexp": "^4.0.0",
     "fast-xml-parser": "^3.19.0",
     "glob": "^7.1.6",
-    "got": "11.8.2",
+    "got": "11.8.5",
     "graphql": "^15.5.0",
     "graphql-tag": "^2.11.0",
     "ioredis": "4.24.6",
